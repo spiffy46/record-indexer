@@ -1,0 +1,6 @@
+record_indexer
+record_indexer.client
+record_indexer.server
+record_indexer.server.databaseAccess
+record_indexer.shared.communication
+record_indexer.shared.model
